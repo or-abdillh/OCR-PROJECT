@@ -1,11 +1,11 @@
 <template>
-   
    <OCR></OCR>
-   
+   <Webcam></Webcam>
 </template>
 
 <script setup>
    import OCR from './components/OCR.vue'
+   import Webcam from './components/Webcam.vue'
 </script>
 <style>
    
