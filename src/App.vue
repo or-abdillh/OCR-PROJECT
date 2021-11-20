@@ -1,11 +1,9 @@
 <template>
    <OCR></OCR>
-   <Webcam></Webcam>
 </template>
 
 <script setup>
    import OCR from './components/OCR.vue'
-   import Webcam from './components/Webcam.vue'
 </script>
 <style>
    
@@ -17,9 +15,11 @@
    }
    
    #app {
-     font-family: Avenir, Helvetica, Arial, sans-serif;
+      padding: .75rem 1rem;
+     font-family: Monospace;
      -webkit-font-smoothing: antialiased;
      -moz-osx-font-smoothing: grayscale;
      color: #2c3e50;
+     
 }
 </style>
