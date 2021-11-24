@@ -21,7 +21,7 @@
          <div class="progress-wrapper">
             <p class="progress" ref="status"></p>
          </div>
-         
+         <br />
          <button :disabled="isLoad" class="btn-action" @click="recognize" type="button">Recognize</button>
       </div>
       

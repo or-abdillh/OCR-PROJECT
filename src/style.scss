@@ -6,10 +6,21 @@
    font-weight: 500;
    box-shadow: 0 3px 12px rgba(black, .25);
    transition: .3s ease-in-out;
+   display: block;
+   width: 100%;
+   text-align: center;
 }
 
 .wrapper {
    padding: .75rem 1rem;
+   
+   @media (min-width: 400px) {
+      width: 50vw;
+      margin: 6rem auto;
+      background: #FFFFFF;
+      border-radius: 12px;
+      padding: 3rem;
+   }
    
    button:disabled {
       opacity: .65;
@@ -25,7 +36,7 @@
    }
    
    .input-wrapper {
-      padding: 1rem 3rem;
+      padding: 2rem 3rem;
       display: flex;
       justify-content: center;
       flex-wrap: wrap;
@@ -106,6 +117,7 @@
    .progress-wrapper {
       padding: .5rem;
       text-align: center;
+      width: 100;
       
       .progress {
          font-size: 1rem;
