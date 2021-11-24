@@ -36,7 +36,7 @@
       
    </section>
    <footer>
-      Developed by <a href="github.com/or-abdillh">Oka R. Abdillh</a>
+      Developed by <a href="http://github.com/or-abdillh">Oka R. Abdillh</a>
    </footer>
 </template>
 

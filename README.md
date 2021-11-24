@@ -24,8 +24,8 @@ I am implementing a Tesseract JS library in my project.
 - 
 ### Demo 
 - [OCR TOOL](https://ocr-project.vercel.app/)
-- [Instagram](https://www.instagram.com/reel/CUQEA_qlFEU/?utm_medium=copy_link)
+- [Instagram](https://www.instagram.com/p/CWpvfAvLnx7/?utm_medium=copy_link)
 
 [Oka R Abdillah ](http://github.com/or-abdillh)
 <br>
-Last edited on : 24/11/2021
+Last edited on : 25/11/2021
