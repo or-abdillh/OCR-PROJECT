@@ -1,7 +1,31 @@
-# Vue 3 + Vite
+<h3 align="center">OCR TOOL</h3>
+<p align="center">Extract Text From an Image</p>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img src="./src/assets/ocr-tool.png" width="100%" alt="">
 
-## Recommended IDE Setup
+### About
+this is my project in building a simple tool to extract text from an image. 
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+I am implementing a Tesseract JS library in my project.
+
+### Languages and Tools
+- Vue Js 3
+- SCSS
+- Tesseract JS
+- Termux
+- Vite Js
+- Acode code editor
+
+### Clone This Repo
+- <code>git clone https://github.com/or-abdillh/ocr-project.git </code>
+- <code>cd ocr-project</code>
+- <code>npm install</code>
+- <code>npm run dev</code>
+- 
+### Demo 
+- [OCR TOOL](https://ocr-project.vercel.app/)
+- [Instagram](https://www.instagram.com/reel/CUQEA_qlFEU/?utm_medium=copy_link)
+
+[Oka R Abdillah ](http://github.com/or-abdillh)
+<br>
+Last edited on : 24/11/2021
